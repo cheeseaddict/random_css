@@ -1,5 +1,6 @@
 #Files
 ._gulpfile.js
+.DS_Store
 
 #Directories
 node_modules/
